@@ -1,0 +1,25 @@
+{
+  "name": "slalom",
+  "description": "Declarative touch interactions",
+  "main": "dist/slalom.js",
+  "authors": [
+    "Ralph Thomas <ralpht@gmail.com> (https://github.com/iamralpht)"
+  ],
+  "license": "Apache 2.0",
+  "keywords": [
+    "physics",
+    "simulation",
+    "javascript"
+  ],
+  "homepage": "https://github.com/DroneSquad/slalom",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
